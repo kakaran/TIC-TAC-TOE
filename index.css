@@ -19,6 +19,20 @@
     width:132px;
     height: 132px;
     border: 1px solid black;
+    text-align: center;
+    font-size: 90px;
+}
+
+.label
+{
+    text-align: center;
+    font-size: 40px;
+}
+
+.message
+{
+    font-size: 30px;
+    text-align:center;
 }
 
 .box1,.box2,.box3
