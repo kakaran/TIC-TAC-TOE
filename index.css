@@ -2,7 +2,7 @@
 {
     position: fixed;
     left:37%;
-    bottom: 20%;
+    bottom: 09%;
 }
 
 .contanier
@@ -33,6 +33,28 @@
 {
     font-size: 30px;
     text-align:center;
+}
+
+.reset_button
+{
+    width: 100px;
+    padding: 10px 15px;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(88, 88, 199, 0.855);
+}
+
+.button{
+    display: flex;
+    padding-top: 50px;
+    justify-content: center;
+}
+
+.button_font
+{
+    color: white;
+    text-decoration: none;
+    text-align: center;
 }
 
 .box1,.box2,.box3

@@ -98,7 +98,7 @@ const clear =  () =>
 {
     if(winner === true)
     {
-        alert(`press the Reset Button`);
+        alert(`If you want to play this Game again! Press the Restart Button`);
     }
 }
 
