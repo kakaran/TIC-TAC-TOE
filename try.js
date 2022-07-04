@@ -115,3 +115,13 @@
 //     {}
 // }
 
+
+
+
+
+const check = (a,b) =>
+{
+    return (a<b) ? b : a;
+}
+
+console.log(check(4,12));

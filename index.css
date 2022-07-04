@@ -42,6 +42,8 @@
     display: flex;
     justify-content: center;
     background-color: rgba(88, 88, 199, 0.855);
+    border-radius: 8px;
+    border: none;
 }
 
 .button{
